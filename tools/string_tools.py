@@ -14,3 +14,9 @@ class StringTools:
     def lower(self):
         """ returns lower string """
         return self.val.lower()
+
+    def trim(self):
+        return self.val.trim()
+
+    def trim_2(self):
+        return self.val.trim()
