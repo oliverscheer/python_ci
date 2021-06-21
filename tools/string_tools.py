@@ -1,4 +1,4 @@
-""" some tools """
+""" some string ötools """
 
 class StringTools:
     """ some string tools """
